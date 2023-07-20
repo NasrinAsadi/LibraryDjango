@@ -1,0 +1,9 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 10px;
+    list-style: none;
+    border-color: black;
+    background-color: aqua;
+    border-style: dashed;
+    text-space:  10px;
+}
